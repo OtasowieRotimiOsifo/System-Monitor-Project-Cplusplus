@@ -1,0 +1,3 @@
+/media/otasowie-osifo/Data Store/VM-SHARE/vm-share/code-dev/C++/System-Monitor-Project-Cplusplus/build/CMakeFiles/monitor.dir
+/media/otasowie-osifo/Data Store/VM-SHARE/vm-share/code-dev/C++/System-Monitor-Project-Cplusplus/build/CMakeFiles/edit_cache.dir
+/media/otasowie-osifo/Data Store/VM-SHARE/vm-share/code-dev/C++/System-Monitor-Project-Cplusplus/build/CMakeFiles/rebuild_cache.dir
